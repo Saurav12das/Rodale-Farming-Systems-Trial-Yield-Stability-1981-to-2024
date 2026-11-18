@@ -1,0 +1,10 @@
+Crop,System,Mean_Mg_ha,SD_Mg_ha,Source,Mean_CI_low,Mean_CI_high,SD_CI_low,SD_CI_high
+corn,CNV,7.65,2.72,Primary REML model; 95% conditional bootstrap intervals,6.33,8.92,2.15,3.43
+corn,LEG,6.79,2.37,Primary REML model; 95% conditional bootstrap intervals,5.7,7.89,1.86,3.02
+corn,MNR,7.5,2.24,Primary REML model; 95% conditional bootstrap intervals,6.45,8.53,1.72,2.91
+soybean,CNV,3.47,0.61,Primary REML model; 95% conditional bootstrap intervals,3.26,3.68,0.47,0.77
+soybean,LEG,2.49,0.57,Primary REML model; 95% conditional bootstrap intervals,2.29,2.69,0.44,0.74
+soybean,MNR,2.85,0.61,Primary REML model; 95% conditional bootstrap intervals,2.6,3.09,0.45,0.79
+wheat,CNV,4.08,0.84,Primary REML model; 95% conditional bootstrap intervals,3.6,4.56,0.63,1.09
+wheat,LEG,3.02,0.79,Primary REML model; 95% conditional bootstrap intervals,2.78,3.26,0.6,1.03
+wheat,MNR,3.43,0.9,Primary REML model; 95% conditional bootstrap intervals,3.13,3.73,0.71,1.13
